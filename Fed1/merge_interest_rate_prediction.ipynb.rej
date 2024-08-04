@@ -1,0 +1,10 @@
+diff a/Fed1/merge_interest_rate_prediction.ipynb b/Fed1/merge_interest_rate_prediction.ipynb	(rejected hunks)
+@@ -12,7 +12,7 @@
+   },
+   {
+    "cell_type": "code",
+-   "execution_count": 2,
++   "execution_count": 33,
+    "id": "8ef03f3b-c5ae-470a-9c9f-022bc8f0b00b",
+    "metadata": {},
+    "outputs": [
