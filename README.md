@@ -77,22 +77,29 @@
 
 ## 사용된 기술 스택
 
-**개발 환경**:
+- **개발 환경**:
   - Jupyter Notebook
-- **프로그래밍 언어**: ![Python](https://img.shields.io/badge/python-v3.8-blue)
+
+- **프로그래밍 언어**:
+  - Python
+
 - **데이터 처리 및 분석**:
   - Pandas
   - NumPy
   - Scikit-learn
+
 - **텍스트 분석**:
   - NLTK (Natural Language Toolkit)
   - TextBlob
+
 - **모델링 및 딥러닝**:
   - TensorFlow (with Keras)
     - 사용된 모델: LSTM, CNN, SimpleRNN, MLP 등
+
 - **시각화**:
   - Matplotlib
   - Seaborn
+
 - **데이터 크롤링**:
   - BeautifulSoup
   - Selenium
