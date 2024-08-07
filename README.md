@@ -77,6 +77,8 @@
 
 ## 사용된 기술 스택
 
+**개발 환경**:
+  - Jupyter Notebook
 - **프로그래밍 언어**: ![Python](https://img.shields.io/badge/python-v3.8-blue)
 - **데이터 처리 및 분석**:
   - Pandas
