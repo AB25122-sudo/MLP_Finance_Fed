@@ -32,7 +32,7 @@
 
 ### 구성원 및 역할
 - [**김동현**](https://github.com/superdupermulti17): 회귀분석을 사용하여 기준 금리에 영향을 미치는 요인의 인과관계 탐색
-- [**김주성**](https://github.com/kimjuseong-99): 비정형 데이터(Beige Book) 크롤링, EDA, 모델링, 평가 및 예측
+- [**김주성**](https://github.com/kimjuseong-99): 비정형 데이터(Youtube, News) 크롤링, EDA, 모델링, 평가 및 예측
 - [**백동열**](https://github.com/dybaek9): 정형 데이터 크롤링 및 전처리, 정형/비정형 데이터 통합, EDA, 모델링, 평가 및 예측
 - [**서웅진**](https://github.com/UngJinSeo): 비정형 데이터(Beige Book) 크롤링, EDA, 모델링, 평가 및 예측
 
