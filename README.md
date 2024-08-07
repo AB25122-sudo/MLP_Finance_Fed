@@ -83,23 +83,19 @@
 - **프로그래밍 언어**:
   - ![Python](https://img.shields.io/badge/python-v3.8-blue)
 
-- **데이터 처리 및 분석**:
-  - Pandas
-  - NumPy
-  - Scikit-learn
+- **크롤링 도구**:
+  - pandas_datareader
+  - yfinance
+  - openpyxl (EXCEL xlsx 데이터 로딩)
 
-- **텍스트 분석**:
+- **정형 데이터 분석/평가**:
+  - Keras
+
+- **비정형 데이터 분석/평가**:
   - NLTK (Natural Language Toolkit)
-  - TextBlob
 
-- **모델링 및 딥러닝**:
-  - TensorFlow (with Keras)
-    - 사용된 모델: LSTM, CNN, SimpleRNN, MLP 등
-
-- **시각화**:
+- **데이터 시각화**:
+  - WordCloud
   - Matplotlib
   - Seaborn
-
-- **데이터 크롤링**:
-  - BeautifulSoup
-  - Selenium
+  
